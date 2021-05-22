@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">, I'm Erwan, known as Waren or Zelgadon!</h1>
+<h1 align="center">Hi <img src="https://github.com/Zelgadon/Zelgadon/blob/main/assets/gifs/Hi.gif">, I'm Erwan, known as Waren or Zelgadon!</h1>
 <h3 align="center">A french and young developer with stars in the eyes and dreams in the head.</h3>
 <img align="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
