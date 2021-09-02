@@ -3,6 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zelgadon&label=Profile%20views&color=0e75b6&style=flat" alt="zelgadon" /> </p>
 <p align="center"><img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'></p>
+<h3 align="center"><b>This is...</b>My personal Github, where I put some random stuff and funny projects. :p</h3>
 
 ---
 
